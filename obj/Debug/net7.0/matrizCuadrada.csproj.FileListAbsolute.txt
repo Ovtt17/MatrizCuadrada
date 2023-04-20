@@ -1,0 +1,15 @@
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-2\matrizCuadrada\bin\Debug\net7.0\matrizCuadrada.exe
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-2\matrizCuadrada\bin\Debug\net7.0\matrizCuadrada.deps.json
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-2\matrizCuadrada\bin\Debug\net7.0\matrizCuadrada.runtimeconfig.json
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-2\matrizCuadrada\bin\Debug\net7.0\matrizCuadrada.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-2\matrizCuadrada\bin\Debug\net7.0\matrizCuadrada.pdb
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-2\matrizCuadrada\obj\Debug\net7.0\matrizCuadrada.csproj.AssemblyReference.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-2\matrizCuadrada\obj\Debug\net7.0\matrizCuadrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-2\matrizCuadrada\obj\Debug\net7.0\matrizCuadrada.AssemblyInfoInputs.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-2\matrizCuadrada\obj\Debug\net7.0\matrizCuadrada.AssemblyInfo.cs
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-2\matrizCuadrada\obj\Debug\net7.0\matrizCuadrada.csproj.CoreCompileInputs.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-2\matrizCuadrada\obj\Debug\net7.0\matrizCuadrada.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-2\matrizCuadrada\obj\Debug\net7.0\refint\matrizCuadrada.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-2\matrizCuadrada\obj\Debug\net7.0\matrizCuadrada.pdb
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-2\matrizCuadrada\obj\Debug\net7.0\matrizCuadrada.genruntimeconfig.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-2\matrizCuadrada\obj\Debug\net7.0\ref\matrizCuadrada.dll
